@@ -1,7 +1,7 @@
 
 # Filipino Regional Expenditures Dashboard
 
-This project provides insights into the average Expenditures of Filipinos in every region. Furthermore, It also aims to explain the average income of Filipinos in every region and to compare it to the daily expenditures.
+This project provides insights of the average Expenditures of Filipinos in every region. Furthermore, It also aims to explain the average income of Filipinos in every region and to compare it to their daily expenditures.
 
     The Data Visualization is posted alongside this readme file. For a better experience with the report, It's best to use PowerBI with the most updated version. 
     The SQL Code is also posted
@@ -13,12 +13,12 @@ This project provides insights into the average Expenditures of Filipinos in eve
     1. Gathered the Data from Kaggle website
     2. Investigated the completeness and relevance of the data to the research and analysis.
     3. Loaded the data into Excel for data cleaning
-    4. Loaded the data into SQL Server Management System for data manipulation and aggregation
+    4. Loaded the data into SQL Server Management System for data manipulation, transformation and aggregation
     5. Loaded the Data into PowerBI and use the query in SQL as the database
     6. Utilized Dax for aggregations and for a better way to find trends or patterns
     7. Analyze trends or patterns in the data and create an interactive dashboard in PowerBI
 
-During Data Manipulation in SQL, I created some aggregations and cases to get the data that I needed for analysis. E.g. Total_Expenditures column, the Avg_Daily_Expense column, Salary_Indicator column to identify how many are earning below or above the minimum wage in different regions. I also searched for the minimum wage of different regions for the better result of Salary_Indicator.
+During Data Manipulation and Transformation in SQL, I created some aggregations and cases to get the data that I needed for analysis. E.g. Total_Expenditures column, the Avg_Daily_Expense column, Salary_Indicator column to identify how many are earning below or above the minimum wage in different regions. I also searched for the minimum wage of different regions for the better result of Salary_Indicator.
 
 ## Insights 
 A single-page report was created in PowerBI Desktop. The report is currently uploaded in this Repository named Project6. 
